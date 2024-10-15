@@ -39,3 +39,6 @@ Implementation of algorithms for removing hidden surfaces and creating a program
 
 ### Results:
 [![Results](media/lab5.png)](media/lab5.mp4)
+
+### Note:
+All labs include functions that animate the movement of shapes. Videos showcasing this functionality have been uploaded for demonstration. If the videos do not play directly in this document(README.md), you can find them in the media folder for offline viewing.
